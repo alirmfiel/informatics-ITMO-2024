@@ -2,7 +2,8 @@
 <img width="1029" height="244" alt="image" src="https://github.com/user-attachments/assets/fbfc09f3-f4db-444f-8b3d-de6bfa89da21" />
 2.Для своего удобства создала файл lab1.bash: touch lab1.bash
 3.Выполнила gedit lab1.bash и вписала нужную команду
-<img width="1029" height="244" alt="image" src="https://github.com/user-attachments/assets/ac4970aa-702c-4d91-93b1-dfede4016fd2" />
+<img width="890" height="179" alt="image" src="https://github.com/user-attachments/assets/34dabd60-342a-4e4e-9c1a-08e0b958b22d" />
+
 
 
   строка #!/bin/bash
